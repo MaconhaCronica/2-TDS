@@ -111,4 +111,40 @@ margin-bottom:20px;
 text-align:center;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 2px solid #333; /* Adiciona uma borda de 2px sólida com cor #333 */
+}
 
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    border-bottom: 2px solid white; /* Adiciona uma borda na parte inferior do cabeçalho */
+}
+
+section {
+    margin-top: 20px;
+    border: 1px solid #ddd; /* Adiciona uma borda de 1px sólida com cor #ddd */
+    padding: 15px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 1px solid #333; /* Adiciona uma borda na parte inferior dos títulos h2 */
+}
+
+iframe {
+    border: 1px solid #ddd; /* Adiciona uma borda de 1px sólida com cor #ddd ao redor do iframe */
+}
+
+footer {
+    margin-top: 20px;
+    border-top: 2px solid #333; /* Adiciona uma borda na parte superior do rodapé */
+    padding-top: 10px;
+    text-align: center;
+}
